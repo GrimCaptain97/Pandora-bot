@@ -1,5 +1,5 @@
 <h1 align="center">✦ Pandora- Bot ✦</h1>
-<p align="center"><img src="https://files.catbox.moe/elx34q.jpg" alt="Imagen del Bot Mai" width="300px"></p>
+<p align="center"><img src="https://br.pinterest.com/pin/364862007325805252/" alt="Imagen del Bot Pandora" width="300px"></p>
 
 ❕️ **Información**
 
