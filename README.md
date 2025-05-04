@@ -114,7 +114,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Ado926/MaiBot.git && cd MaiBot
+git clone https://github.com/GrimCaptain97/Pandora-bot.git && cd Pandora-bot
 ```
 
 ```bash
@@ -142,7 +142,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd MaiBot
+    cd Pandora-bot
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -156,7 +156,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd MaiBot && nano settings.js
+    cd Pandora-bot && nano settings.js
    ```
 
 </details>
