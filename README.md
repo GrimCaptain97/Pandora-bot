@@ -1,5 +1,5 @@
 <h1 align="center">✦ Pandora- Bot ✦</h1>
-<p align="center"><img src="https://br.pinterest.com/pin/364862007325805252/" alt="Imagen del Bot Pandora" width="300px"></p>
+<p align="center"><img src="https://www.google.com/search?q=im%C3%A1gen+de+pandora+de+saint+seiya+en+catbox&client=ms-android-xiaomi-terr1-rso2&sca_esv=7cf0c26799f71603&sxsrf=AHTn8zq4k_Q7vwbU8rcEoWLnyhdP3Zt89Q%3A1746324423365&ei=x8sWaJv_FYHy5OUP0dGsKQ&oq=im%C3%A1gen+de+pandora+de+saint+seiya+en+catbox&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIitpbcOhZ2VuIGRlIHBhbmRvcmEgZGUgc2FpbnQgc2VpeWEgZW4gY2F0Ym94MggQIRigARjDBEiRfVAuWMVtcAN4AJABA5gB8j-gAcf0AaoBDzMtMi4xLjEuMS4xLjEuNLgBA8gBAPgBAZgCCKACnzXCAgUQIRigAcICBxAhGKABGAqYAwCSBxEzLjMtMS4xLjEuMC4xLjAuMaAHhBqyBw8zLTEuMS4xLjAuMS4wLjG4B4k1&sclient=mobile-gws-wiz-serp#imgrc=0ACIEsseYjXwOM&imgdii=T7fdKT3ZoGUOIM" alt="Imagen del Bot Pandora" width="300px"></p>
 
 ❕️ **Información**
 
