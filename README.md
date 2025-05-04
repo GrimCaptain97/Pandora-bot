@@ -1,5 +1,5 @@
 <h1 align="center">✦ Pandora- Bot ✦</h1>
-<p align="center"><img src="https://www.mediafire.com/view/tncn03mpus4ckrb/1660fdf38fcd2a9d1a87d8183c6bb19b%25282%2529.jpg/file" alt="Imagen del Bot Pandora" width="1400px"></p>
+<p align="center"><img src="https://www.mediafire.com/view/tncn03mpus4ckrb/1660fdf38fcd2a9d1a87d8183c6bb19b%25282%2529.jpg/file" alt="Imagen del Bot Pandora" width="300px"></p>
 
 ❕️ **Información**
 
