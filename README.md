@@ -190,7 +190,7 @@ npm start
 
 ᥫ💚 **Propietario**
 
-<a href="https://github.com/Ado926">
-<img src="https://github.com/Ado926.png" width="130" height="130" alt="Ado926"/>
+<a href="https://github.com/GrimCaptain97">
+<img src="https://github.com/GrimCaptain97.png" width="130" height="130" alt="Ado926"/>
 </a>
   
